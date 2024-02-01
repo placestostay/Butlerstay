@@ -1,0 +1,10 @@
+.navbar bg-body-tertiary {
+    background-color: rgb(85, 162, 217) !important;
+}
+.footer { 
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+}
+
